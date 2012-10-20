@@ -7342,9 +7342,9 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 </classes>
 <parts>
 <part name="X-BMS" library="BMS" deviceset="LTC6802-2" device=""/>
-<part name="R1" library="rcl" deviceset="R-US_" device="R0402" value="3.57K"/>
-<part name="R2" library="rcl" deviceset="R-US_" device="R0402" value="3.57K"/>
-<part name="R3" library="rcl" deviceset="R-US_" device="R0402" value="3.57K"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="R0603" value="3.57K"/>
+<part name="R2" library="rcl" deviceset="R-US_" device="R0603" value="3.57K"/>
+<part name="R3" library="rcl" deviceset="R-US_" device="R0603" value="3.57K"/>
 <part name="ACSL6410" library="BMS" deviceset="ACSL-6410" device=""/>
 <part name="BAT1" library="BMS" deviceset="BAT54S" device=""/>
 <part name="BAT2" library="BMS" deviceset="BAT54S" device=""/>
@@ -7362,82 +7362,82 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 <part name="R10" library="rcl" deviceset="R-US_" device="R0603" value="4.99k"/>
 <part name="R11" library="rcl" deviceset="R-US_" device="R0603" value="20k"/>
 <part name="R12" library="rcl" deviceset="R-US_" device="R0603" value="10k"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0402" value="1uF"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
-<part name="C3" library="rcl" deviceset="C-EU" device="C0402" value="33nF"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="100nF"/>
+<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="33nF"/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
-<part name="R13" library="rcl" deviceset="R-US_" device="R0402" value="249"/>
+<part name="R13" library="rcl" deviceset="R-US_" device="R0603" value="249"/>
 <part name="C5" library="rcl" deviceset="C-EU" device="C0603" value="470pF"/>
 <part name="A0" library="pinhead" deviceset="PINHD-1X3" device="" value="2.54mm Header + Tyco 881545 Shunt"/>
 <part name="A1" library="pinhead" deviceset="PINHD-1X3" device="" value="2.54mm Header + Tyco 881545 Shunt"/>
 <part name="A2" library="pinhead" deviceset="PINHD-1X3" device="" value="2.54mm Header + Tyco 881545 Shunt"/>
 <part name="A3" library="pinhead" deviceset="PINHD-1X3" device="" value="2.54mm Header + Tyco 881545 Shunt"/>
-<part name="C6" library="rcl" deviceset="C-EU" device="C0402" value="1uF"/>
+<part name="C6" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
 <part name="C7" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
 <part name="R14" library="rcl" deviceset="R-US_" device="R0603" value="100k"/>
 <part name="R15" library="rcl" deviceset="R-US_" device="R0603" value="100k"/>
 <part name="C8" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
 <part name="C9" library="rcl" deviceset="C-EU" device="C0603" value="1uF"/>
-<part name="R16" library="rcl" deviceset="R-US_" device="R0402" value="1M"/>
-<part name="R17" library="rcl" deviceset="R-US_" device="R0402" value="1M"/>
+<part name="R16" library="rcl" deviceset="R-US_" device="R0603" value="1M"/>
+<part name="R17" library="rcl" deviceset="R-US_" device="R0603" value="1M"/>
 <part name="PD1" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T1" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R20" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R21" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R20" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R21" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R22" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R23" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED1" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R24" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C10" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C10" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD2" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T2" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R25" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R26" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R25" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R26" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R27" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R28" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED2" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R29" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C11" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C11" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD3" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T3" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R30" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R31" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R30" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R31" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R32" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R33" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED3" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R34" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C12" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C12" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD4" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T4" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R35" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R36" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R35" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R36" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R37" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R38" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED4" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R39" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C13" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C13" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD5" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T5" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R40" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R41" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R40" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R41" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R42" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R43" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED5" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R44" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C14" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C14" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD6" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T6" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R45" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R46" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R45" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R46" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R47" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R48" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED6" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R49" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C15" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C15" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD7" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T7" library="BMS" deviceset="RTR020P02" device=""/>
 <part name="R50" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
-<part name="R51" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R51" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R52" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R53" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED7" library="BMS" deviceset="LED-0805" device=""/>
@@ -7454,35 +7454,35 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 <part name="C17" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD9" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T9" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R60" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R61" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R60" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R61" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R62" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R63" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED9" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R64" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C18" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C18" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD10" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T10" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R65" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R66" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R65" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R66" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R67" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R68" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED10" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R69" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C19" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C19" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD11" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T11" library="BMS" deviceset="RTR020P02" device=""/>
-<part name="R70" library="rcl" deviceset="R-US_" device="R0402" value="100"/>
-<part name="R71" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R70" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
+<part name="R71" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R72" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R73" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED11" library="BMS" deviceset="LED-0805" device=""/>
 <part name="R74" library="rcl" deviceset="R-US_" device="R0805" value="180"/>
-<part name="C20" library="rcl" deviceset="C-EU" device="C0402" value="100n"/>
+<part name="C20" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
 <part name="PD12" library="BMS" deviceset="PDZ7.5B" device=""/>
 <part name="T12" library="BMS" deviceset="RTR020P02" device=""/>
 <part name="R75" library="rcl" deviceset="R-US_" device="R0603" value="100"/>
-<part name="R76" library="rcl" deviceset="R-US_" device="R0402" value="3.3k"/>
+<part name="R76" library="rcl" deviceset="R-US_" device="R0603" value="3.3k"/>
 <part name="R77" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="R78" library="rcl" deviceset="R-US_" device="R2512" value="10"/>
 <part name="LED12" library="BMS" deviceset="LED-0805" device=""/>
